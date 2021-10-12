@@ -1,0 +1,12 @@
+bin/
+compiler_compat/
+conda-meta/
+etc/
+include/
+lib/
+share/
+ssl/
+x86_64-conda_cos6-linux-gnu/
+x86_64-conda-linux-gnu/
+
+.ipynb_checkpoints/
