@@ -9,4 +9,7 @@ Etapa 01 ANALISE DOS DADOS:
 -Verificacao de valores nulos;
 -Verificacao de outliers (valores fora do comum);
 -Verificacao de valores com problemas de input. Ex: Feminino/Fem;
--Verificacao de valores NAN (informacoes nao preenchidas)
+-Verificacao de valores NAN (informacoes nao preenchidas).
+
+Etapa 02 TRATAMENTO DOS DADOS:
+-Substituicao de valores NAN em Salario pela mediana;
