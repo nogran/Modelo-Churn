@@ -1,6 +1,6 @@
-# MODELAR A PROBABILIDADE DE CLIENTES QUE PODEM ABANDADONAR O RELACIONAMENTO COM UMA ENTIDADE FINANCEIRA ATRAVES DE ANALISE CHURN.
+# MODELAGEM ATRAVES DE ANALISE CHURN
 
-Utilizar a base de dados da empresa para analisar,prever e identificar o perfil do cliente que podera cancelar sua conta em uma instituição financeira atraves de metodo Churn analise.
+Utilizar a base de dados da empresa para analisar,prever e identificar o perfil do cliente que podera cancelar sua conta em uma instituição financeira atraves do metodo analise de Churn.
 
 
 ## Etapa 01 ANALISE DOS DADOS:  
